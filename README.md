@@ -4,7 +4,6 @@ About Me
 I am a passionate developer who enjoys building useful, reliable, and user-friendly applications.
 
 - 🔭 I’m currently working on full-stack web projects
-- 🌱 I’m currently learning cloud computing and DevOps
 - 💬 Ask me about JavaScript, React, Python, and Git
 
 My Skills                                    
@@ -12,3 +11,6 @@ My Skills
 
 Currently Learning                        
 TypeScript • Next.js • Docker  
+
+Contact
+- [Email](mailto:your-kavinprasanth0696@gmail.com)
